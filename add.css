@@ -1,0 +1,17 @@
+
+.status {
+    display: table-caption;
+}
+
+button {
+    background-color: blue;
+}
+
+.status {
+    display: table-caption;
+    border: 1px solid;
+    border-radius: 6px;
+    padding: 13px;
+    margin: 11px;
+}
+

@@ -1,0 +1,25 @@
+.picture {
+    display: flex;
+}
+
+
+.article {
+    margin: 16px;
+}
+
+.picture {
+    padding: 10px;
+}
+
+p {
+    text-align: justify;
+}
+
+p.john {
+    font-size: 38px;
+    padding: 32px;
+}
+
+button {
+    background-color: cadetblue;
+}

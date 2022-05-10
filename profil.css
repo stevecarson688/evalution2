@@ -1,0 +1,19 @@
+.center {
+    text-align: center;
+}
+
+img {
+    border: 1px solid;
+    border-radius: 137px;
+}
+
+ul {
+    list-style: none;
+    line-height: 44px;
+}
+
+.li1 {
+    list-style-image: url(image/image2.jpg);
+    
+}
+

@@ -1,0 +1,40 @@
+.items img {
+    width: 100%;
+    height: auto;
+}
+
+.galerie {
+    display: flex;
+    max-width: 1300px;
+    width: 80%;
+    margin: 70px auto 0;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+*, ::before, ::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.body {
+    background: #333;
+    height: 100vh;
+}
+
+.items {
+    width: 300px;
+    margin: 10px;
+    height: 200px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+h4 {
+    font-size: 39px;
+    text-align: start;
+    padding: 5px;
+    margin: 10px;
+    background-color: cadetblue;
+}
